@@ -33,6 +33,18 @@ This persona transcends demographics and focuses on the emotional state and inte
 
 This audience values sincerity over speed and is willing to go through a more deliberate process to ensure their message is received in a form that honors its importance.
 
+### Secondary Persona: The Nostalgic Correspondent
+
+This persona represents users who grew up with analog communication and cherish the tangible, emotional experience of sending and receiving physical letters. They are not just trying a novel service; they are reliving a sentiment from a pre-digital era.
+
+- **Motivations:** Driven by nostalgia and a desire for the authenticity they associate with physical mail. They find digital communication to be fleeting and less meaningful and seek to share the "weight" and permanence of a real letter with others.
+- **Use Cases:**
+    - **Staying in Touch:** Sending thoughtful updates to old friends or family members who would appreciate a physical letter.
+    - **Passing on a Tradition:** Introducing younger generations to the joy of letter writing.
+    - **Special Occasions:** Writing letters for birthdays, holidays, or anniversaries where a digital message feels inadequate.
+
+This audience provides a stable, appreciative user base that understands the intrinsic value of the medium and can act as brand ambassadors for the service's core values.
+
 ### The Intended Recipient
 
 Just as important as the sender is the recipient: the person who "absolutely needs to receive" this message. The service is designed to break through the noise of digital life and command the recipient's attention.
